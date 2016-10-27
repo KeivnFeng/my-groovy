@@ -1,3 +1,3 @@
 # my-groovy
 
-basic groovy stady
+basic groovy study
